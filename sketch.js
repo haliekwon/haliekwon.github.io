@@ -5,7 +5,7 @@ let triY;
 
 function setup() {
   //create the canvas element
-  createCanvas(900, 500);
+  createCanvas(windowWidth, windowHeight);
 
   //giving pointX a value of 300
   pointX = 600;
@@ -77,5 +77,11 @@ if(keyIsPressed){
   triY = 300;
 
   }
+
+}
+
+
+function keyTyped(){
+save("Sketch1.png");
 
 }
