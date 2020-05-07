@@ -1,0 +1,79 @@
+,time/period,location,services,institutions,input,interfaces,latitude,longitude,freq,R,G,B
+31-Jan,7:45am,Streetsville,Morning Alarm,Samsung,Waking up,Galaxy,41.891062,-87.621437,49,246,205,59
+,9am-4pm,Sharp 1217,Adobe Software,Adobe,Using InDesign,MacBook,41.880938,-87.625688,15,255,100,100
+,12pm-12:55,Sharp 806,Alert,Google,Going to meeting,Galaxy,41.880938,-87.625688,15,255,100,100
+,4:15pm-5:00,Sharp 215,Alert,Google,Going to meeting,Galaxy,41.880938,-87.625688,15,255,100,100
+,6pm-8pm,Glenview,Transportation service,Uber,Riding uber,Galaxy,42.059438,-87.843688,1,107,183,226
+,8pm-8:45,Chicago highway,Transportation service,Uber,Riding uber,Galaxy,42.059438,-87.843688,1,107,183,226
+,9pm-2am,Streetsville,Register guest name on concierge,Optima Signature,Register guest name in the app,Galaxy,41.891062,-87.621437,49,246,205,59
+,2am,Streetsville,Alarm,Samsung,Setting Alarm,Galaxy,41.891062,-87.621437,49,246,205,59
+01-Feb,8am,Streetsville,Morning Alarm,Samsung,Waking up,Galaxy,41.891062,-87.621437,49,246,205,59
+,12pm-12:20pm,"Loop, Chicago",Showing bus time schedule,Google,"Ride a bus, Check bus schedule",Phone-google map,41.880312,-87.624188,15,255,100,100
+,1pm,Streetsville,Elevator button,Optima Signature,Touching my floor,Elevator hallway Screen,41.891062,-87.621437,49,246,205,59
+,3pm-3:30pm,Kitchen at home,Providing recipe video,YouTube,Watching recipe,Ipad-YouTube,41.891062,-87.621437,49,246,205,59
+,8:50pm,Streetsville,Transportation service,Uber,Riding uber,Galaxy,41.891062,-87.621437,49,246,205,59
+,9:15pm-11pm,West Loop,Booking Dinner,Opentable,Reserve for dinner,MacBook,41.884312,-87.643688,4,204,118,218
+,12am-4am,Streetsville,"Videos, Screen",Youtube,Watching videos,LG,41.891062,-87.621437,49,246,205,59
+,4am,Streetsville,Alarm,Samsung,Setting Alarm,Galaxy,41.891062,-87.621437,49,246,205,59
+02-Feb,2pm,Streetsville,Morning Alarm,Samsung,Waking up,Galaxy,41.891062,-87.621437,49,246,205,59
+,2:30pm,Streetsville,Showing restaurants near me,Google,Searching restaurants,Galaxy,41.891062,-87.621437,49,246,205,59
+,3pm,Streetsville,Showing account balance,Chase,Checking my account balance,Galaxy,41.891062,-87.621437,49,246,205,59
+,4pm,Streetsville,Order my coffee,Starbucks,Take coffee,Elevator hallway Screen,41.891062,-87.621437,49,246,205,59
+,5pm,Streetsville,Elevator button,Optima Signature,Touching my floor,Elevator hallway Screen,41.891062,-87.621437,49,246,205,59
+,6pm,"Sharp, Loop",Showing class ppt,Canvas,Prep quiz,MacBook,41.880938,-87.625688,15,255,100,100
+,12am,Streetsville,Alarm,Samsung,Setting Alarm,Galaxy,41.891062,-87.621437,49,246,205,59
+03-Feb,4pm,Lincolnwood,Transportation service,Uber,Riding uber,Galaxy,41.884312,-87.643688,1,196,196,196
+,1pm,Streetsville,"Videos, Screen",Youtube,Play music,LG,41.891062,-87.621437,49,246,205,59
+,6pm,Streetsville,Elevator button,Optima Signature,Touching my floor,Elevator hallway Screen,41.891062,-87.621437,49,246,205,59
+,9:00pm,"Loop, Chicago",email service,Google,checking email,Phone-gmail,41.880938,-87.625688,15,255,100,100
+,11:00pm,Streetsville,webtoon,naver,read webtoon,Galaxy-Phone,41.891062,-87.621437,49,246,205,59
+04-Feb,9am,Lakeview 203,Transportation service,Uber,Riding uber,Galaxy,41.880938,-87.625688,15,255,100,100
+,12pm,Loop,Transportation service,Uber,Riding uber,Galaxy,41.880938,-87.625688,15,255,100,100
+,1pm,Spertus 408B,Elevator button,Optima Signature,Touching my floor,Elevator hallway Screen,41.873937,-87.624562,15,255,100,100
+,5pm,MacLean,Alarm,Samsung,Setting Alarm,Galaxy,41.880938,-87.625688,49,255,100,100
+,6-9pm,MacLean,After Effect,Adobe,Using after effect software,Microsoft,41.880938,-87.625688,15,255,100,100
+05-Feb,1pm,West Loop,Transportation service,Uber,Riding uber,Galaxy,41.885688,-87.664938,4,204,118,218
+,3pm,West Loop,Transportation service,Uber,Riding uber,Galaxy,41.885688,-87.664938,4,204,118,218
+,1:30am,Streetsville,Elevator button,Optima Signature,Touching my floor,Elevator hallway Screen,41.891062,-87.621437,49,246,205,59
+06-Feb,7:50am,Streetsville,Morning Alarm,Samsung,Waking up,Galaxy,41.891062,-87.621437,49,246,205,59
+,8:30am,Streetsville,Elevator button,Samsung,Touching my floor,Elevator hallway Screen,41.891062,-87.621437,49,246,205,59
+,8:32am,"Loop, Chicago",Showing bus time schedule,Google,"Ride a bus, Check bus schedule",Phone-google map,41.880312,-87.624188,12,87,203,126
+,9:11,"Loop, Chicago",email service,Google,checking email,Phone-gmail,41.880312,-87.624188,12,87,203,126
+07-Feb,7:45am,Streetsville,Morning Alarm,Samsung,Waking up,Galaxy,41.891062,-87.621437,49,246,205,59
+,8:32am,Streetsville,Elevator button,Optima Signature,Touching my floor,Elevator hallway Screen,41.891062,-87.621437,49,246,205,59
+,8:35am,"Loop, Chicago",Showing bus time schedule,Google,"Ride a bus, Check bus schedule",Phone-google map,41.880312,-87.624188,12,87,203,126
+,7:45pm,Streetsville,QR code,"Amazon,Wholefood",getting promo,Amazon,41.891062,-87.621437,49,246,205,59
+,8:00pm,Streetsville,Elevator button,Optima Signature,Touching my floor,Elevator hallway Screen,41.891062,-87.621437,49,246,205,59
+,9:00pm,Streetsville,"Videos, Screen",Youtube,Watching videos,LG,41.891062,-87.621437,49,246,205,59
+08-Feb,8:10am,Streetsville,Morning Alarm,Samsung,Waking up,Galaxy,41.891062,-87.621437,49,246,205,59
+,8:40am,Streetsville,Elevator button,Optima Signature,Touching my floor,Elevator hallway Screen,41.891062,-87.621437,49,246,205,59
+,8:42am,"Loop, Chicago",Showing bus time schedule,Google,"Ride a bus, Check bus schedule",Phone-google map,41.880312,-87.624188,12,87,203,126
+,9:05,"Loop, Chicago",email service,Google,checking email,Phone-gmail,41.880312,-87.624188,12,87,203,126
+,6pm,Streetsville,Showing classmates' work,Canvas,Writing peer review,MacBook,41.891062,-87.621437,49,246,205,59
+09-Feb,1:10pm,Streetsville,email service,Google,checking email,Phone-gmail,41.891062,-87.621437,49,246,205,59
+,3pm,Streetsville,webtoon,naver,read webtoon,Galaxy-Phone,41.891062,-87.621437,49,246,205,59
+,8pm,Streetsville,uploading code,GitHub,posting code,MacBook,41.891062,-87.621437,49,246,205,59
+,11:00pm,Streetsville,"Videos, Screen",Youtube,Watching videos,LG,41.891062,-87.621437,49,246,205,59
+10-Feb,1:10pm,Streetsville,email service,Google,checking email,Phone-gmail,41.891062,-87.621437,49,246,205,59
+,3pm,Streetsville,webtoon,naver,read webtoon,Galaxy-Phone,41.891062,-87.621437,49,246,205,59
+,8pm,Streetsville,uploading code,GitHub,posting code,MacBook,41.891062,-87.621437,49,246,205,59
+,11:00pm,Streetsville,"Videos, Screen",Youtube,Watching videos,LG,41.891062,-87.621437,49,246,205,59
+10-Feb,7:45am,Streetsville,Morning Alarm,Samsung,Waking up,Galaxy,41.891062,-87.621437,49,246,205,59
+,8:31am,Streetsville,Elevator button,Optima Signature,Touching my floor,Elevator hallway Screen,41.891062,-87.621437,49,246,205,59
+,8:33am,"Loop, Chicago",Showing bus time schedule,Google,"Ride a bus, Check bus schedule",Phone-google map,41.880312,-87.624188,12,87,203,126
+,7:50pm,Streetsville,QR code,"Amazon,Wholefood",getting promo,Amazon,41.891062,-87.621437,49,246,205,59
+,8:10pm,Streetsville,Elevator button,Optima Signature,Touching my floor,Elevator hallway Screen,41.891062,-87.621437,49,246,205,59
+,9:20pm,Streetsville,"Videos, Screen",Youtube,Watching videos,LG,41.891062,-87.621437,49,246,205,59
+11-Feb,7:47am,Streetsville,Morning Alarm,Samsung,Waking up,Galaxy,41.891062,-87.621437,49,246,205,59
+,8:32am,Streetsville,Elevator button,Optima Signature,Touching my floor,Elevator hallway Screen,41.891062,-87.621437,49,246,205,59
+,8:36am,"Loop, Chicago",Showing bus time schedule,Google,"Ride a bus, Check bus schedule",Phone-google map,41.880312,-87.624188,12,87,203,126
+,12:30,"Loop, Chicago",Facetime,Apple,intervewing,"MacBook, Apple",41.880312,-87.624188,12,87,203,126
+12-Feb,8:32am,Streetsville,Elevator button,Optima Signature,Touching my floor,Elevator hallway Screen,41.891062,-87.621437,49,246,205,59
+,3pm,Sharp 1217,Adobe Software,Adobe,Using InDesign,MacBook,41.880938,-87.625688,12,255,100,100
+,6:00pm,Streetsville,webtoon,naver,read webtoon,Galaxy-Phone,41.891062,-87.621437,49,246,205,59
+,3pm-3:30pm,Streetsville,Show videos,YouTube,Watching videos,Ipad-YouTube,41.891062,-87.621437,49,246,205,59
+13-Feb,7:57am,Streetsville,Morning Alarm,Samsung,Waking up,Galaxy,41.891062,-87.621437,49,246,205,59
+,8:33am,Streetsville,Elevator button,Optima Signature,Touching my floor,Elevator hallway Screen,41.891062,-87.621437,49,246,205,59
+,8:35am,"Loop, Chicago",Showing bus time schedule,Google,"Ride a bus, Check bus schedule",Phone-google map,41.880312,-87.624188,12,87,203,126
+,9am-4pm,Sharp 1117,Coding,Atom,Coding,MacBook,41.880938,-87.625688,15,255,100,100
+,4:10pm,Streetsville,Sharing my post,Instagram,Posting stories,Galaxy,41.891062,-87.621437,49,246,205,59
