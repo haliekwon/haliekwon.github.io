@@ -32,19 +32,13 @@ function setup() {
 
 }
 
-// The draw loop is fully functional but we are not using it for now.
-// function draw() {
-//
-//   const pos = myMap.latLngToPixel(41.891062,-87.621437);
-//
-//   ellipse(pos.x, pos.y, 30, 30);
-//   fill(250, 202, 42);
-//   noStroke();
-//
-//
-//
-//
-// }
+function on() {
+  document.getElementById("overlay").style.display = "block";
+}
+
+function off() {
+  document.getElementById("overlay").style.display = "none";
+}
 
 function drawPersonaldata() {
   // Clear the canvas
@@ -67,10 +61,16 @@ function drawPersonaldata() {
        let size = personaldata.getString(i, 'freq');
        size = map(size, 1, 49, 1, 25)+ myMap.zoom();
 
-       fill(NUMBER(personaldata.getString(i, 'R')),NUMBER(personaldata.getString(i, 'G')) , NUMBER(personaldata.getString(i, 'B')));
-       ellipse(pos.x, pos.y, size, size);
+       if(keyIsDown(UP_ARROW))
+  canvas.scale += 0.05;
+if(keyIsDown(DOWN_ARROW))
+  canvas.scale -= 0.05;
+
+ellipse(pos.x, pos.y, size, size);
+       fill(Number(personaldata.getString(i, 'R')),Number(personaldata.getString(i, 'G')) , Number(personaldata.getString(i, 'B')));
 
        noStroke();
+
 
 
     }
